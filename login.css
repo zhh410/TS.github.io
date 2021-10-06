@@ -71,7 +71,7 @@ div {
     display: flex;
 }
 .main .time span {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
 }
 .main .zebra img {
     width: 17.856rem;
@@ -81,10 +81,10 @@ div {
 }
 .main .time {
     color: green;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     text-align: center;
     padding-top: .5rem;
-    font-weight: 520;
+    font-weight: 510;
 }
 .main .zebra-2 {
     margin: 0 auto;
